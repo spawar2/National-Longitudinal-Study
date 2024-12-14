@@ -4,3 +4,4 @@ Date created/updated: December, 9, 2024.
 Claflin University, Orangeburg, South Carolina, United States of America (USA). 
 https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
+![download](https://github.com/user-attachments/assets/2e5e0668-6fe2-454b-8777-52c94d94999b)
